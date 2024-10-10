@@ -1,0 +1,8 @@
+com\mycompany\proyecto1lenguajes2024\Proyecto1Lenguajes2024.class
+Analizadores\AnalizadorJavaScript.class
+Analizadores\AnalizadorHtml.class
+Analizadores\AnalizadorCss.class
+Token\Token.class
+m\Main\AnalizadorGeneral.class
+m\Main\AnalizadorGeneralGrafico$1.class
+m\Main\AnalizadorGeneralGrafico.class
